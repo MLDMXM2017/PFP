@@ -2,10 +2,10 @@
 the code for "Construction of a machine learning-based pulmonary function prediction model for the Chinese population".
 
 ## Requirements
-<br>Python==3.7.6    
-<br>numpy 
-<br>pandas      
-<br>sklearn    
+Python==3.7.6<br>    
+numpy<br> 
+pandas<br>      
+sklearn    
 
 ## Data
 Due to the sensitivity of the population information, the datasets used in this study are available from the corresponding author on reasonable request (whqiu@fjmu.edu.cn).
